@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgaben", "Aufgaben\Aufgaben.csproj", "{B51D645A-FAF8-447B-BC57-9528137D87F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrom Prüfung", "Palindrom Prüfung\Palindrom Prüfung.csproj", "{6791C94F-D36A-4241-8700-2D27FA61D89C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primzahlen Prüfung", "Primzahlen Prüfung\Primzahlen Prüfung.csproj", "{DD3E4477-47CD-4C71-A9DB-88FD089B7967}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primzahl Auflistung", "Primzahl Auflistung\Primzahl Auflistung.csproj", "{6917DB07-2E2F-415B-B67B-51CAE178DD6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taschenrechner", "Taschenrechner\Taschenrechner.csproj", "{E721DFAB-5AFB-4472-81BF-7FDF581C330F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B51D645A-FAF8-447B-BC57-9528137D87F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51D645A-FAF8-447B-BC57-9528137D87F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51D645A-FAF8-447B-BC57-9528137D87F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51D645A-FAF8-447B-BC57-9528137D87F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6791C94F-D36A-4241-8700-2D27FA61D89C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6791C94F-D36A-4241-8700-2D27FA61D89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6791C94F-D36A-4241-8700-2D27FA61D89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6791C94F-D36A-4241-8700-2D27FA61D89C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD3E4477-47CD-4C71-A9DB-88FD089B7967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD3E4477-47CD-4C71-A9DB-88FD089B7967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD3E4477-47CD-4C71-A9DB-88FD089B7967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD3E4477-47CD-4C71-A9DB-88FD089B7967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6917DB07-2E2F-415B-B67B-51CAE178DD6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6917DB07-2E2F-415B-B67B-51CAE178DD6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6917DB07-2E2F-415B-B67B-51CAE178DD6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6917DB07-2E2F-415B-B67B-51CAE178DD6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E721DFAB-5AFB-4472-81BF-7FDF581C330F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E721DFAB-5AFB-4472-81BF-7FDF581C330F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E721DFAB-5AFB-4472-81BF-7FDF581C330F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E721DFAB-5AFB-4472-81BF-7FDF581C330F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BAE043F-DF81-4FE9-BCF7-BAC0C50A3538}
+	EndGlobalSection
+EndGlobal
